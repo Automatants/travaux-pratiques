@@ -3,67 +3,97 @@ from matplotlib import pyplot as plt
 
 def create_population(pop_cap, nb_var):
     """
-    Create the initial population with random traits.
+    Création de la population initiale avec des traits aléatoires.
 
+    Paramètres :
+    - pop_cap (int) : Nombre d'individus de la population
+    - nb_var (int) : Taille du génome des individus
 
-    Parameters :
-    - pop_cap : the number of individuals
-    - nb_var : the number of variables of each individual
-
-    Return :
-    - pop : Array of individuals, where individuals are an array of traits
+    Retour :
+    - (Array(Array(float))) : Un tableau d'individus où chaque chaque individu est un tableau de traits.
     """
-    pass
 
-def crossover(ind1, ind2, binary = False):
+    pop = []
+    
+    # A REMPLIR
+
+    return np.array(pop)
+
+def crossover(ind1, ind2):
     """
-    Do a crossover between two individuals.
+    On croise deux invidivus (enfin leurs génomes).
+    
+    Par exemple, on peut appliquer pour chaque gène, où a <= b : (a + b) / 2 + abs(b - a) * random(-1, 1)
 
-    Parameters :
-    - ind1 : Array of traits of the first individual
-    - ind2 : Array of traits of the second individual
-    - binary : ???
+    Paramètres :
+    - ind1 (Array(float)) : Premier individu
+    - ind2 (Array(float)) : Deuxième individu
 
-    Return :
-    - ind : Array of traits of the crossover between the two
+    Retour :
+    - (Array(float)) L'individu résultant du crossover
     """
-    pass
+    
+    ind = np.zeros(ind1.shape) # Crée un génome vierge
 
-def mutate(ind, mutation_rate, ind_sample1, ind_sample2, bound_inf=None, bound_sup=None):
-    """
-    Random chance to generate a new mutation.
+    # A REMPLIR
 
-    Parameters :
-    - ind : Array of traits of the individual to mutate
-    - mutation_rate : Mutation rate
-    - ind_sample1, ind_sample2 : Array of traits of individuals picked from the population to estimate the average space between two individuals
-    - bound_inf, bound_sup : Limits the mutation range
+    return ind
+
+def mutate(ind, mutation_rate,
+           ind_sample1, ind_sample2,
+           bound_inf=None, bound_sup=None):
     """
-    pass
+    On effectue la mutation du génome de l'individu ind avec une probabilité mut_rat.
+
+    On calcule la distance moyenne entre deux individus de la population à partir de deux individus choisis au hasard ... Pourquoi ?
+
+    Paramètres :
+    - ind (Array(float)) : Individu initial
+    - mut_rate (float, entre 0 et 1) : Taux de mutation
+    - ind_sample1, ind_sample2 (Array(float)) : Individus choisis au hasard dans la population 
+    - bound_inf, bound_sup (float, optionnel) : Bornes pour la variation du génome
+
+    Retour :
+    - (Array(float)) L'individu initial, muté ou non
+    """
+
+    # A REMPLIR
+
+    return ind
 
 def tournament(pop, fitness_fnct):
     """
-    Rank your population by calculating a score or by doing a tournament.
+    Classe la population en calculant des scores ou en effectuant un tournoi.
 
-    Parameters :
-    - pop : Array of individuals, where individuals are an array of traits
-    - fitness_fnct : A fitness function to evaluate the performance of a given individual
+    Paramètres :
+    - pop (Array(Array(float))) : Un tableau d'individus où chaque chaque individu est un tableau de traits.
+    - fitness_fnct (function): La fonction objective qui permet de calculer la performance de chaque individu.
+
+    Retour :
+    - (Array(Array(float))) : Renvoie un tableau avec le liste des individus classés ou sélectionnés.
     """
-    pass
+
+    # A REMPLIR
+
+    return pop
 
 def do_generation(pop, fitness_fnct):
     """
-    Calculate generation N+1. given generation N
+    Calcule la génération N+1 à partir de la génération N.
 
     Parameters :
-    - pop : Array of individuals, where individuals are an array of traits
-    - fitness_fnct : A fitness function to evaluate the performance of a given individual
+    - pop (Array(Array(float))) : Un tableau d'individus où chaque chaque individu est un tableau de traits.
+    - fitness_fnct (function): La fonction objective qui permet de calculer la performance de chaque individu.
     """
+
+    # A REMPLIR
     pass
 
 def plot_population(pop, fitness_fnct, start, stop):
     """
-    Plot the current population against the fitness function.
+    Affiche les individus de la population actuelle et la fonction objective.
+
+    Attention, ne fonctionne que dans le cas d'une fonction objective à une seule variable.
     """
     x = np.linspace(start, stop)
     plt.plot(x, fitness_fnct(x))
@@ -72,13 +102,14 @@ def plot_population(pop, fitness_fnct, start, stop):
 
 def genetic_algorithm(pop_cap, nb_var, fitness_fnct, n_gen, display):
     """
-    Apply a genetic algorithm to solve a problem.
+    Application d'un algorithme génétique pour résoudre un problème de minimisation.
 
-    Parameters :
-    - pop_cap : the number of individuals
-    - nb_var : the number of variables of each individual
-    - fitness_fnct : A fitness function to evaluate the performance of a given individual
-    - n_gen : the number of generation to calculate
+    Paramètres :
+    - pop (Array(Array(float))) : Un tableau d'individus où chaque chaque individu est un tableau de traits.
+    - nb_var (int) : Taille du génome des individus.
+    - fitness_fnct (function): La fonction objective qui permet de calculer la performance de chaque individu.
+    - n_gen (int) : Le nombre de génération à calculer.
+    - display (bool) : Si True, affiche la population à chaque génération.
 
     Return :
     - pop : The final population after n_gen generations.
