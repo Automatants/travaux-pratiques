@@ -29,10 +29,10 @@ Dans cette partie, on considérera que le génome des individus n'est qu'une seu
 
 3. Dans la fonction `tournament`, nous allons tout d'abord classer les individus selon leur score avec la fonction objective. Plus tard, dans le TP, vous pourrez la réécrire pour effectuer un tournoi à la place de ce classement.
 
-La fonction suivante peut vous être utile, elle permet de trier une liste A en fonction des valeurs de la liste B.
+La fonction suivante peut vous être utile, elle permet de trier une liste B en fonction des valeurs de la liste A.
 
 ```python
-np.array([x for _, x in sorted(zip(A, B), key=lambda pair: pair[0])])
+C = [x for _, x in sorted(zip(A, B), key=lambda pair: pair[0])]
 ```
 
 4. Remplisssez la fonction `do_gen` qui calcule la génération suivante. C'est là que vous allez appliquez toutes les étapes (Sélection et Crossover) vues durant la formation.
