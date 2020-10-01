@@ -1,6 +1,9 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
+import importlib
+tests_functions = importlib.import_module('tests_functions')
+
 class Individual:
     """
     Un individu de la population.
@@ -23,7 +26,7 @@ class GA:
     Classe permettant d'éxécuter un algorithme génétique sur un problème d'optimisation.
     """
 
-    def __init__(self,pop_cap,nb_var,fitness_fnct):
+    def __init__(self, pop_cap, nb_var, fitness_fnct):
         """
         Sauvegarde les hyper-paramètres de l'algorithme, et crée la population initiale.
 
@@ -107,7 +110,7 @@ class GA:
         # A REMPLIR
         pass
 
-def plot_population(pop, fitness_fnct, start, stop):
+def plot_population(pop, fitness_fnct, start=-5, stop=5):
     """
     Affiche les individus de la population actuelle et la fonction objective.
 
@@ -116,5 +119,11 @@ def plot_population(pop, fitness_fnct, start, stop):
 
     x = np.linspace(start, stop)
     plt.plot(x, fitness_fnct(x))
-    plt.scatter(pop.genome, fitness_fnct(np.array(pop.genome)))
+    plt.scatter([ind.genome for ind in pop], fitness_fnct(np.array([ind.genome for ind in pop])))
     plt.show()
+
+fitness_fnct = tests_functions.function_lvl_1
+algo = GA(10, 1, fitness_fnct)
+for i in range(5):
+    algo.do_gen()
+    plot_population(algo.pop, fitness_fnct, -3, 7)

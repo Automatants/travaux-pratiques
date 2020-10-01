@@ -1,6 +1,9 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
+import importlib
+tests_functions = importlib.import_module('tests_functions')
+
 def create_population(pop_cap, nb_var):
     """
     Création de la population initiale avec des traits aléatoires.
@@ -77,7 +80,7 @@ def tournament(pop, fitness_fnct):
 
     return pop
 
-def do_generation(pop, fitness_fnct):
+def do_gen(pop, fitness_fnct):
     """
     Calcule la génération N+1 à partir de la génération N.
 
@@ -125,3 +128,5 @@ def genetic_algorithm(pop_cap, nb_var, fitness_fnct, n_gen, display):
     return pop
 
 
+fitness_fnct = tests_functions.function_lvl_1
+genetic_algorithm(10, 1, fitness_fnct, 5, True)
