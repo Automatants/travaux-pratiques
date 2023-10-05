@@ -13,7 +13,7 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
 
 ## Tutoriels Disponibles
 
-1. [Introduction aux classes à PyTorch](/TP1_Clase)
+1. [Introduction aux classes à PyTorch](/TP1_Classe)
    - Découvrez comment utiliser les classes dans PyTorch pour créer des modèles d'apprentissage automatique.
    - Prérequis : Rien
 
