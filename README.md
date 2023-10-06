@@ -29,6 +29,10 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
    - Découvrez U-Net, une architecture de réseau de neurones particulièrement utile pour la segmentation d'images.
    - Prérequis : Forma Intro, CNN, TP Classes, TP Autoencodeur, TP ResNet
 
+4. [Clustering](/TP5_Clustering)
+   - Découvrez l'apprentissage non supervisée 
+   - Prérequis : 
+
 ## Comment Commencer
 
 1. Vous pouvez executer les différents TPs en utilisant [Colab](https://colab.research.google.com/). Vous pouvez aussi les éxecuter en local sur votre machine, si vous avez bien installé les libraires appropriées. Vous pouvez demander à quelqu'un d'Automatants de vous aider si vous avez des soucis.
