@@ -1,7 +1,6 @@
 # Projets de Permanence
 Recueil des projets de permanence proposés par les Automatants.
 
-
 Bienvenue dans le dépôt GitHub d'Automatants, où nous répertorions les tutoriels pratiques que nous proposons lors de nos permanences au HubIA. Ces tutoriels sont conçus pour vous familiariser avec divers concepts en Deep Learning en utilisant PyTorch. 
 
 N'hésitez surtout pas à venir au HubIA pour coder avec nous, poser des questions et approfondir vos connaissances.
@@ -20,14 +19,17 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
 2. [Introduction à ResNet](/TP2_Resnet)
    - Explorez le réseau de neurones convolutifs ResNet et apprenez à l'implémenter avec PyTorch.
    - Prérequis : Forma Intro, CNN , TP Classes
+   - Défis : https://sharing.cs-campus.fr/compete/90
 
 3. [Introduction à l'Autoencodeur](/TP3_Autoencodeur)
    - Plongez dans le monde des autoencodeurs, un type de réseau de neurones utilisé pour la compression et la génération de données.
    - Prérequis : Forma Intro, (CNN), TP Classes 
+   - Défis : https://sharing.cs-campus.fr/compete/89
 
 4. [Introduction à U-Net](/TP4_Unet)
    - Découvrez U-Net, une architecture de réseau de neurones particulièrement utile pour la segmentation d'images.
    - Prérequis : Forma Intro, CNN, TP Classes, TP Autoencodeur, TP ResNet
+   - Défis : https://sharing.cs-campus.fr/compete/89
 
 4. [Clustering](/TP5_Clustering)
    - Découvrez l'apprentissage non supervisée 
