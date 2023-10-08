@@ -47,6 +47,7 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
 1. [Introduction to Natural Language Processing](/TP7_Intro_NLP)
    - Découvrez comment traiter le texte avec de l'IA
    - Prérequis : Forma Intro, TP Classes
+   - Défis: https://sharing.cs-campus.fr/compete/100
 
 
 
