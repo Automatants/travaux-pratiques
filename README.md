@@ -42,7 +42,6 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
    - Défis : https://sharing.cs-campus.fr/compete/89
 
    
-
 ### Natural Language Processing
 
 1. [Introduction to Natural Language Processing](/TP7_Intro_NLP)
