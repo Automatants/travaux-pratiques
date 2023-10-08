@@ -12,32 +12,44 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
 
 ## Tutoriels Disponibles
 
+### Outils Généraux
+
+
 1. [Introduction aux classes à PyTorch](/TP1_Classe)
    - Découvrez comment utiliser les classes dans PyTorch pour créer des modèles d'apprentissage automatique.
    - Prérequis : Rien
 
-2. [Introduction à ResNet](/TP2_Resnet)
+2. [Clustering](/TP5_Clustering)
+   - Découvrez l'apprentissage non supervisée 
+   - Prérequis : 
+
+
+### Traitement des images
+
+1. [Introduction à ResNet](/TP2_Resnet)
    - Explorez le réseau de neurones convolutifs ResNet et apprenez à l'implémenter avec PyTorch.
    - Prérequis : Forma Intro, CNN , TP Classes
    - Défis : https://sharing.cs-campus.fr/compete/90
 
-3. [Introduction à l'Autoencodeur](/TP3_Autoencodeur)
+2. [Introduction à l'Autoencodeur](/TP3_Autoencodeur)
    - Plongez dans le monde des autoencodeurs, un type de réseau de neurones utilisé pour la compression et la génération de données.
    - Prérequis : Forma Intro, (CNN), TP Classes 
    - Défis : https://sharing.cs-campus.fr/compete/89
 
-4. [Introduction à U-Net](/TP4_Unet)
+3. [Introduction à U-Net](/TP4_Unet)
    - Découvrez U-Net, une architecture de réseau de neurones particulièrement utile pour la segmentation d'images.
    - Prérequis : Forma Intro, CNN, TP Classes, TP Autoencodeur, TP ResNet
    - Défis : https://sharing.cs-campus.fr/compete/89
 
-4. [Clustering](/TP5_Clustering)
-   - Découvrez l'apprentissage non supervisée 
-   - Prérequis : 
+   
 
-5. [Introduction to Natural Language Processing](/TP7_Intro_NLP)
+### Natural Language Processing
+
+1. [Introduction to Natural Language Processing](/TP7_Intro_NLP)
    - Découvrez comment traiter le texte avec de l'IA
    - Prérequis : 
+
+
 
 ## Comment Commencer
 
