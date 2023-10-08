@@ -19,10 +19,6 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
    - Découvrez comment utiliser les classes dans PyTorch pour créer des modèles d'apprentissage automatique.
    - Prérequis : Rien
 
-2. [Clustering](/TP5_Clustering)
-   - Découvrez l'apprentissage non supervisée 
-   - Prérequis : Rien
-
 
 ### Traitement des images
 
@@ -48,6 +44,13 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
    - Découvrez comment traiter le texte avec de l'IA
    - Prérequis : Forma Intro, TP Classes
    - Défis: https://sharing.cs-campus.fr/compete/100
+
+
+### Apprentissage non supervisé
+
+1. [Clustering](/TP5_Clustering)
+   - Découvrez l'apprentissage non supervisé
+   - Prérequis : Rien
 
 
 
