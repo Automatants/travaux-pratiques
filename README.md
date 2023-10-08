@@ -21,7 +21,7 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
 
 2. [Clustering](/TP5_Clustering)
    - Découvrez l'apprentissage non supervisée 
-   - Prérequis : 
+   - Prérequis : Rien
 
 
 ### Traitement des images
@@ -46,7 +46,7 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
 
 1. [Introduction to Natural Language Processing](/TP7_Intro_NLP)
    - Découvrez comment traiter le texte avec de l'IA
-   - Prérequis : 
+   - Prérequis : Rien
 
 
 
