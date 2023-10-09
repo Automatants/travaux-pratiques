@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.6",
+    "heartbeatAt": "2023-10-09T11:42:20.097556",
+    "startedAt": "2023-10-09T11:42:15.044390",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Automatants/projets-de-permanence.git",
+        "commit": "85f25c74024b8eddd5e8d95663c6813f9778da0f"
+    },
+    "email": "fotiskapotos@gmail.com",
+    "root": "C:/Users/fotis/Documents/Automatants/projets-de-permanence",
+    "host": "Fotis",
+    "username": "fotis",
+    "executable": "c:\\Users\\fotis\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1900.0,
+        "min": 0.0,
+        "max": 1900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1900.0,
+            "min": 0.0,
+            "max": 1900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 453.35351181030273,
+            "used": 94.57246017456055
+        }
+    },
+    "memory": {
+        "total": 15.617511749267578
+    }
+}
