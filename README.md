@@ -45,9 +45,12 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
 ### Natural Language Processing
 
 1. [Introduction to Natural Language Processing](/TP7_Intro_NLP)
-   - Découvrez comment traiter le texte avec de l'IA
+   - Découvrez comment traiter le texte avec de l'IA.
    - Prérequis : Forma Intro, TP Classes
    - Défis: https://sharing.cs-campus.fr/compete/100
+2. [Transformer](/TP_Transformer)
+   - Découvrez comment traiter des séquences de données et comment marchent les gros modèles de language comme ChatGPT.
+   - Prérequis : Forma Intro, TP Classes, TP ResNet, TP Intro à NLP
 
 
 ### Apprentissage non supervisé
