@@ -19,7 +19,7 @@ Vous trouverez ci-dessous la liste des tutoriels disponibles :
    - Découvrez comment utiliser les classes dans PyTorch pour créer des modèles d'apprentissage automatique.
    - Prérequis : Rien
   
-2. [Introduction à Lightning et Wandb](/TP8_)
+2. [Introduction à Lightning et Wandb](/TP8_PytorchLighting)
    - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Enginner
    - Prérequis : Classes, Intro 
 
