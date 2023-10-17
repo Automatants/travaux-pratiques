@@ -27,10 +27,10 @@ Il faut avoir fait la formation d'Intro et la formation CNN pour avancer dans ce
    - Plongez dans le monde des autoencodeurs, un type de réseau de neurones utilisé pour la compression et la génération de données.
    - Défis : https://sharing.cs-campus.fr/compete/89
 
-4. [Introduction à Lightning et Wandb](/TP8_)
+4. [Introduction à Lightning et Wandb](/TP10_PytorchLightning)
    - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Enginner
 
-5. [Transfer Learning](/TP8_)
+5. [Transfer Learning](/TP7_TransferLearning)
    - Apprenez comment raffiner des modèles prénetrainés pour des tâches bien spécifiques
 
 6. [Data Augmentation](/TP9_Dropout_Data_Augmentation)
