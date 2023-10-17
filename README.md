@@ -28,7 +28,11 @@ Il faut avoir fait la formation d'Intro et la formation CNN pour avancer dans ce
    - Défis : https://sharing.cs-campus.fr/compete/89
 
 4. [Introduction à Lightning et Wandb](/TP10_PytorchLightning)
-   - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Enginner
+   - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Engineer
+
+3. [Introduction à U-Net](/TP4_Unet)
+   - Découvrez U-Net, une architecture de réseau de neurones particulièrement utile pour la segmentation d'images.
+   - Défis : https://sharing.cs-campus.fr/compete/89
 
 5. [Transfer Learning](/TP7_TransferLearning)
    - Apprenez comment raffiner des modèles prénetrainés pour des tâches bien spécifiques
