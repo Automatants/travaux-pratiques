@@ -7,8 +7,70 @@ N'hésitez surtout pas à venir au HubIA pour coder avec nous, poser des questio
 
 On vous propose également des petis défis à la fin de chaque TP, où vous pouvez essayer de résoudre un problème donné en utilisant ce que vous avez appris. Ces défis seront ouverts toute l'année. Vous allez pouvoir visualiser votre progrès au fil de l'année ! 
 
+Nous avons crée 3 parcours différents pour vous, en fonction de vos intérets ! 
 
-Vous trouverez ci-dessous la liste des tutoriels disponibles :
+## Parcours Traitement d'image
+
+Bienvenue dans ce parcours de travaux pratiques en traitement d'image avec l'intelligence artificielle ! Dans un monde de plus en plus visuel, l'analyse et la manipulation d'images jouent un rôle crucial dans de nombreuses applications, de la médecine à l'industrie, en passant par la sécurité et le divertissement. L'intelligence artificielle révolutionne la manière dont nous comprenons et utilisons les images en permettant aux ordinateurs d'apprendre à extraire des informations utiles à partir de données visuelles.
+
+Il faut avoir fait la formation d'Intro et la formation CNN pour avancer dans ce parcours. 
+
+1. [Introduction aux classes à PyTorch](/TP1_Classe)
+   - Découvrez comment utiliser les classes dans PyTorch pour créer des modèles d'apprentissage automatique.
+
+2. [Introduction à ResNet](/TP2_Resnet)
+   - Explorez le réseau de neurones convolutifs ResNet et apprenez à l'implémenter avec PyTorch.
+   - Défis : https://sharing.cs-campus.fr/compete/90
+
+3. [Introduction à l'Autoencodeur](/TP3_Autoencodeur)
+   - Plongez dans le monde des autoencodeurs, un type de réseau de neurones utilisé pour la compression et la génération de données.
+   - Défis : https://sharing.cs-campus.fr/compete/89
+
+4. [Introduction à Lightning et Wandb](/TP8_)
+- Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Enginner
+
+
+
+5. [Transfer Learning](/TP8_)
+- Apprenez comment raffiner des modèles prénetrainés pour des tâches bien spécifiques
+
+
+
+
+
+## Parcours Traitement du texte
+
+Bienvenue dans notre parcours de traitement de texte avec l'intelligence artificielle. Ce voyage vous plongera dans l'univers fascinant de l'analyse, de la génération et de la compréhension du texte grâce à des techniques avancées d'IA. Au fil de ce parcours, vous développerez des compétences essentielles pour travailler avec du texte, que ce soit pour la classification, la génération de contenu, l'extraction d'informations, ou d'autres tâches complexes.
+
+
+1. [Introduction aux classes à PyTorch](/TP1_Classe)
+   - Découvrez comment utiliser les classes dans PyTorch pour créer des modèles d'apprentissage automatique.
+
+2. [Introduction to Natural Language Processing](/TP7_Intro_NLP)
+   - Découvrez comment traiter le texte avec de l'IA
+   - Prérequis : Forma Intro, TP Classes
+   - Défis: https://sharing.cs-campus.fr/compete/100
+
+3. [Introduction à Lightning et Wandb](/TP8_)
+   - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Enginner
+   - Prérequis : Classes, Intro 
+
+4. [Transformer](/TP_Transformer)
+   - Découvrez comment traiter des séquences de données et comment marchent les gros modèles de language comme ChatGPT.
+   - Prérequis : Forma Intro, TP Classes, TP ResNet, TP Intro à NLP
+
+
+# Parcous Apprentissage par Renforcement
+
+1. [Introduction aux classes à PyTorch](/TP1_Classe)
+   - Découvrez comment utiliser les classes dans PyTorch pour créer des modèles d'apprentissage automatique.
+
+2. [Introduction au Reinforcement Learning](/TP8_Intro_RL)
+   - Apprenez à une IA à balancer un pendule inversé ! 
+
+
+
+
 
 ## Tutoriels Disponibles
 
