@@ -65,6 +65,10 @@ Plongez dans l'univers fascinant de l'analyse, de la génération et de la compr
    - Apprenez à une IA à balancer un pendule inversé ! 
 
 
+## Parcous Machine Learning Classique
+
+1. [Clustering] (/TP5_Clustering)
+   - Apprennez une méthode d'aprentissage non supervisée
 
 ## Comment Commencer
 
