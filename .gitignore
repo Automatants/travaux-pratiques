@@ -1,5 +1,6 @@
 TP6_TransferLearning/hymenoptera_data/
 TP7_Intro_NLP/data/
+__pycache__
+env
 TP8_PytorchLighting/data
 TP8_PytorchLighting/lightning_logs/
-
