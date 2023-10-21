@@ -71,7 +71,7 @@ Plongez dans l'univers fascinant de l'analyse, de la génération et de la compr
 
 ## Parcous Machine Learning Classique
 
-1. [Clustering] (/TP5_Clustering)
+1. [Clustering](/TP5_Clustering)
    - Apprennez une méthode d'aprentissage non supervisée
 
 ## Comment Commencer
