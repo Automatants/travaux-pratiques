@@ -34,7 +34,7 @@ Il faut avoir fait la formation d'Intro et la formation CNN pour avancer dans ce
    - Découvrez U-Net, une architecture de réseau de neurones particulièrement utile pour la segmentation d'images.
    - Défis : https://sharing.cs-campus.fr/compete/89
 
-5. [Transfer Learning](/TP7_TransferLearning)
+5. [Transfer Learning](/TP6_TransferLearning)
    - Apprenez comment raffiner des modèles prénetrainés pour des tâches bien spécifiques
 
 6. [Data Augmentation](/TP9_Dropout_Data_Augmentation)
