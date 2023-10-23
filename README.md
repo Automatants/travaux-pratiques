@@ -28,18 +28,20 @@ Il faut avoir fait la formation d'Intro et la formation CNN pour avancer dans ce
    - Défis : https://sharing.cs-campus.fr/compete/89
 
 4. [Introduction à Lightning et Wandb](/TP10_PytorchLightning)
-   - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Engineer
+   - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Engineer.
 
 3. [Introduction à U-Net](/TP4_Unet)
    - Découvrez U-Net, une architecture de réseau de neurones particulièrement utile pour la segmentation d'images.
    - Défis : https://sharing.cs-campus.fr/compete/89
 
 5. [Transfer Learning](/TP6_TransferLearning)
-   - Apprenez comment raffiner des modèles prénetrainés pour des tâches bien spécifiques
+   - Apprenez comment raffiner des modèles prénetrainés pour des tâches bien spécifiques.
 
 6. [Data Augmentation](/TP9_Dropout_Data_Augmentation)
-   - Apprenez comment augmenter la taille de vos datasets pour améliorer les performances de vos algorithmes
+   - Apprenez comment augmenter la taille de vos datasets pour améliorer les performances de vos algorithmes.
 
+7. [cGAN](/TP11_CGAN)
+   - Découvrez les GAN conditionnels et comment ils permettent de générer des contenus ciblés basés sur des conditions spécifiques et d'éviter le mode collapse des GANs.
 
 ## Parcours Traitement du texte
 
@@ -50,11 +52,11 @@ Plongez dans l'univers fascinant de l'analyse, de la génération et de la compr
    - Découvrez comment utiliser les classes dans PyTorch pour créer des modèles d'apprentissage automatique.
 
 2. [Introduction to Natural Language Processing](/TP7_Intro_NLP)
-   - Découvrez comment traiter le texte avec de l'IA
+   - Découvrez comment traiter le texte avec de l'IA.
    - Défis: https://sharing.cs-campus.fr/compete/100
 
 3. [Introduction à Lightning et Wandb](/TP10_PytorchLightning)
-   - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Enginner
+   - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Enginner.
 
 4. [Transformer](/TP_Transformer)
    - Découvrez comment traiter des séquences de données et comment marchent les gros modèles de language comme ChatGPT.
@@ -72,7 +74,7 @@ Plongez dans l'univers fascinant de l'analyse, de la génération et de la compr
 ## Parcous Machine Learning Classique
 
 1. [Clustering](/TP5_Clustering)
-   - Apprennez une méthode d'aprentissage non supervisée
+   - Apprennez une méthode d'aprentissage non supervisée.
 
 ## Comment Commencer
 
