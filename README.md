@@ -53,7 +53,7 @@ Plongez dans l'univers fascinant de l'analyse, de la génération et de la compr
    - Découvrez comment traiter le texte avec de l'IA
    - Défis: https://sharing.cs-campus.fr/compete/100
 
-3. [Introduction à Lightning et Wandb](/TP10_PytorchLighting)
+3. [Introduction à Lightning et Wandb](/TP10_PytorchLightning)
    - Découvrez comment utiliser wandb et pytorch Lightning pour être un veritable ML Enginner
 
 4. [Transformer](/TP_Transformer)
