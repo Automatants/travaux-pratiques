@@ -61,6 +61,8 @@ Plongez dans l'univers fascinant de l'analyse, de la génération et de la compr
 4. [Transformer](/TP_Transformer)
    - Découvrez comment traiter des séquences de données et comment marchent les gros modèles de language comme ChatGPT.
 
+5. [Génération d'histoire](/TP_TextGeneration)
+   - Découvrez comment générer des histoires avec les transformers.
 
 # Parcours Apprentissage par Renforcement
 
