@@ -1,5 +1,5 @@
-# Projets de Permanence
-Recueil des projets de permanence proposés par les Automatants.
+# Travaux Pratiques
+Recueil des TPs proposés par les Automatants.
 
 Bienvenue dans le dépôt GitHub d'Automatants, où nous répertorions les tutoriels pratiques que nous proposons lors de nos permanences au HubIA. Ces tutoriels sont conçus pour vous familiariser avec divers concepts en Deep Learning en utilisant PyTorch. 
 
@@ -7,7 +7,7 @@ N'hésitez surtout pas à venir au HubIA pour coder avec nous, poser des questio
 
 On vous propose également des petis défis à la fin des certains TP, où vous pouvez essayer de résoudre un problème donné en utilisant ce que vous avez appris. Ces défis seront ouverts toute l'année. Vous allez pouvoir visualiser votre progrès au fil de l'année ! 
 
-Nous avons crée 4 parcours différents pour vous, en fonction de vos intérets ! 
+Nous avons crée 5 parcours différents pour vous, en fonction de vos intérets ! 
 
 ## Parcours
 
