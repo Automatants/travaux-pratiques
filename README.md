@@ -33,6 +33,11 @@ Nous avons crée 4 parcours différents pour vous, en fonction de vos intérets 
 Trouvez ici l'ensemble des défis Automatants, avec leurs TPs associés, pour que vous puissiez
 monter en niveau, et comparer votre niveau aux autres!
 
+- [ResNet](https://sharing.cs-campus.fr/compete/90)
+- [Autoencoder](https://sharing.cs-campus.fr/compete/89)
+- [U-Net](hhttps://sharing.cs-campus.fr/compete/89ttps://sharing.cs-campus.fr/compete/89)
+- []
+
 ## Auteur
 
 Ce dépôt est maintenu par l'association Automatants. Pour en savoir plus sur notre association et nos activités, visitez notre site web [ici](https://automatants.cs-campus.fr/).
