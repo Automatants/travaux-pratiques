@@ -36,7 +36,7 @@ monter en niveau, et comparer votre niveau aux autres!
 - [ResNet](https://sharing.cs-campus.fr/compete/90)
 - [Autoencoder](https://sharing.cs-campus.fr/compete/89)
 - [U-Net](hhttps://sharing.cs-campus.fr/compete/89ttps://sharing.cs-campus.fr/compete/89)
-- []
+- [Text Classifier (Intro NLP)](https://sharing.cs-campus.fr/compete/100)
 
 ## Auteur
 
