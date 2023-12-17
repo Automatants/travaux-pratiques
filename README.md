@@ -17,6 +17,9 @@ Nous avons crée 5 parcours différents pour vous, en fonction de vos intérets 
 - [Parcours Machine Learning](/Parcours_ML)
 - [Parcours Reinforcement Learning](/Parcours_RL)
 
+## Prérequis
+
+Il est préférable d'avoir fait les [formations](formas) de début d'année, nottamment sur les CNNs et les GANs pour le Parcours Image
 
 ## Comment Commencer
 
