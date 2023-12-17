@@ -6,6 +6,3 @@
 Dans ce TP on va explorer le monde du MLOps. Vous savez créer de modèles, les entrainer, utiliser des architectures avancées et plein de choses encore. Mais, pour pouvoir gérer au mieux vos modèles de Deep Learning, ainsi que vos différentes expériences, il faut avoir une organisation solide.
 
 Nous allons voir deux outils qui vont vous permettre de faire passer vos projets à la prochaine étape.
-
-## Prérequis
-- [TP 1 Classe](../TP1_Classe)
