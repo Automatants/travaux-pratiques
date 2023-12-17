@@ -26,7 +26,7 @@ Nous avons crée 4 parcours différents pour vous, en fonction de vos intérets 
 
 3. N'hésitez pas à poser des questions ou à partager vos commentaires ! 
 
-**Remarque:** Faire le Début du Parcours Technique est nécéssaire pour les autres parcours, faites au moins le [TP Classes](/Parcours_Technique/TP1_Classes)
+**Remarque:** Faire le Début du Parcours Technique est nécéssaire pour les autres parcours, faites au moins le [TP Classes](/Parcours_Technique/TP1_Classe)
 
 ## Auteur
 
