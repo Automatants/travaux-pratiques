@@ -11,6 +11,3 @@ Dans ce TP, nous allons utiliser le dataset [CIFAR-10](https://www.cs.toronto.ed
 60 000 images. Dans ce TP, on présente deux transformations de base de pytorch : 
 `RandomResizedCrop` récupère une partie aléatoire de l'image tout en conservant la taille initiale et 
 `RandomHorizontalFlip` tourne l'image horizontalement. Libre à vous de tester d'autre transformations.
-
-## Prérequis
-- Aucun

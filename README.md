@@ -20,13 +20,18 @@ Nous avons crée 4 parcours différents pour vous, en fonction de vos intérets 
 
 ## Comment Commencer
 
-1. Vous pouvez executer les différents TPs en utilisant [Colab](https://colab.research.google.com/). Vous pouvez aussi les éxecuter en local sur votre machine, si vous avez bien installé les libraires appropriées. Vous pouvez demander à quelqu'un d'Automatants de vous aider si vous avez des soucis.
+1. Faire le [TP 1: Classe](/Parcours_Technique/TP1_Classe) si vous ne l'avaient pas encore fait, c'est un prérequis pour tous les autres TPs!
 
-2. Choisissez le parcours qui vous plait le plus ! 
+2. Vous pouvez executer les différents TPs en utilisant [Colab](https://colab.research.google.com/). Vous pouvez aussi les éxecuter en local sur votre machine, si vous avez bien installé les libraires appropriées. Vous pouvez demander à quelqu'un d'Automatants de vous aider si vous avez des soucis.
 
-3. N'hésitez pas à poser des questions ou à partager vos commentaires ! 
+3. Choisissez le parcours qui vous plait le plus ! 
 
-**Remarque:** Faire le Début du Parcours Technique est nécéssaire pour les autres parcours, faites au moins le [TP Classes](/Parcours_Technique/TP1_Classe)
+4. N'hésitez pas à poser des questions ou à partager vos commentaires ! 
+
+## Défis
+
+Trouvez ici l'ensemble des défis Automatants, avec leurs TPs associés, pour que vous puissiez
+monter en niveau, et comparer votre niveau aux autres!
 
 ## Auteur
 
