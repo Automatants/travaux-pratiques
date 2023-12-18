@@ -1,4 +1,4 @@
-# TP 4: Data Augmentation
+# TP 4: Data Augmentation & Dropout
 
 ![](./schema_dropout.png)
 
