@@ -13,4 +13,4 @@ Plongez dans l'univers fascinant de l'analyse, de la génération et de la compr
 3. [Génération d'histoire](./TP3_TextGeneration)
    - Découvrez comment générer des histoires avec les transformers.
 4. [Utilisation et fine-tuning des modèles pré-entrainés](./TP4_UseTransfo)
-   - Apprenez comment fonctionne les gros modèles comme BERT et découvrez comment fine-tune GPT2 pour vos tâches spécifiques.
+   - Apprenez comment fonctionne BERT et découvrez comment fine-tune GPT2 pour vos tâches spécifiques.
