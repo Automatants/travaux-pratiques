@@ -1,6 +1,6 @@
-# TP 4: Data Augmentation
+# TP 4: Data Augmentation & Dropout
 
-![](./shema_dropout.png)
+![](./schema_dropout.png)
 
 ## Description
 Si vous avez suivi les TPs automatants, vous avez sûrement du remarquer que, pour entraîner un modèle d'IA, 
