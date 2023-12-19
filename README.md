@@ -19,7 +19,7 @@ Nous avons crée 5 parcours différents pour vous, en fonction de vos intérets 
 
 ## Prérequis
 
-Il est préférable d'avoir fait les [formations](formas) de début d'année, nottamment sur les CNNs et les GANs pour le Parcours Image
+Il est préférable d'avoir fait les [formations](https://github.com/Automatants/formations) de début d'année, nottamment sur les CNNs et les GANs pour le Parcours Image
 
 ## Comment Commencer
 
